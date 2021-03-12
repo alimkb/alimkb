@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.10.1/devicon.min.css">
+
 
 ## My Skills :computer:
 
@@ -22,9 +22,7 @@ Here are some ideas to get you started:
 <table>
 <tbody>
  <tr>
- <td align="center">
-  <i class="devicon-javascript-plain"></i>
- </td>
+
 <td align="center" >
 <img height=60px src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"> 
 </td>
