@@ -1,4 +1,4 @@
-### Hey there! I'm Ali Morakabi 👋
+# Hey there! I'm Ali Morakabi 👋
 
 <!--
 **alimkb/alimkb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
