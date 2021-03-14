@@ -1,5 +1,7 @@
 # Hey there! I'm Ali Morakabi 👋
 
+I am a creative software engineer who enjoys learning and making things better. I have built successful websites in businesses, companies and in the in-house sector for over 15 years. Here you'll find some fun little projects that I've coded as a way to discover something new. 
+
 <!--
 **alimkb/alimkb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
