@@ -2,21 +2,6 @@
 
 I am a creative software engineer who enjoys learning and making things better. I have built successful websites in businesses, companies and in the in-house sector for over 15 years. Here you'll find some fun little projects that I've coded as a way to discover something new. 
 
-<!--
-**alimkb/alimkb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 
 ## My Skills :computer:
 
@@ -48,7 +33,7 @@ Here are some ideas to get you started:
 </table>
 
 
-- **Web Development**
+- **Database**
 <table>
 <tbody>
 
