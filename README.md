@@ -26,9 +26,11 @@ Here are some ideas to get you started:
  <tr>
 
 <td align="center" >
+<img height=60px src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"> 
+</td>
+<td align="center" >
 <img height=60px src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"> 
 </td>
-
 <td align="center">
 <img height=80px src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png"> 
 </td>
