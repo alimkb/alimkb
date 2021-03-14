@@ -122,7 +122,7 @@ Here are some ideas to get you started:
 <p>
 <a href="https://github.com/alimkb"><img src="http://i.imgur.com/0o48UoR.png"/></a>
 <a href="mailto:alimkb@gmail.com"><img src="http://i.imgur.com/yCsTjba.png"/></a>
-<a href="https://twitter.com/alimkb"><img src="http://i.imgur.com/P3YfQoD.png"/></a>
+<a href="https://twitter.com/alimkb"><img src="http://i.imgur.com/tXSoThF.png"/></a>
 </p>
 
 
