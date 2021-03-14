@@ -120,16 +120,11 @@ Here are some ideas to get you started:
 ## Connect with me. :smiley:
 
 <p>
-<a href="https://github.com/alimkb"><img src=""/></a>
+<a href="https://github.com/alimkb"><img src="http://i.imgur.com/0o48UoR.png"/></a>
 <a href="https://www.linkedin.com/"><img src=""></a>
 <a href="https://instagram.com/"><img src=""/></a>
-<a href="mailto:alimkb@gmail.com"><img src=""/></a>
-<a href="https://twitter.com/alimkb"><img src=""/></a>
+<a href="mailto:alimkb@gmail.com"><img src="http://i.imgur.com/yCsTjba.png"/></a>
+<a href="https://twitter.com/alimkb"><img src="http://i.imgur.com/P3YfQoD.png"/></a>
 </p>
 
-[![alt text][1.1]][1]
-[![alt text][2.1]][2]
-[![alt text][3.1]][3]
-[![alt text][4.1]][4]
-[![alt text][5.1]][5]
-[![alt text][6.1]][6]
+
