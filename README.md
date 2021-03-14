@@ -100,18 +100,7 @@ Here are some ideas to get you started:
 </tbody>
 </table>
 
-- **Web Development**
-<table>
-<tbody>
- <tr>
-<td align="center" width="100%">
-<img height=60px src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"> 
-</td>
 
-</tr>
-
-</tbody>
-</table>
 
 
 <hr>
