@@ -56,7 +56,7 @@ I am a creative software engineer who enjoys learning and making things better. 
 </tbody>
 </table>
 
-<hr>
+
 
 ## Currently Learning :beginner:
 
@@ -84,7 +84,7 @@ I am a creative software engineer who enjoys learning and making things better. 
 
 
 
-<hr>
+
 
 
 ## Connect with me. :smiley:
